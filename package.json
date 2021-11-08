@@ -1,0 +1,22 @@
+{
+  "name": "ecg_wise2021_22",
+  "version": "1.0.0",
+  "description": "realtime computer graphics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uhahne/ecg_WiSe2021_22.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uhahne/ecg_WiSe2021_22/issues"
+  },
+  "homepage": "https://github.com/uhahne/ecg_WiSe2021_22#readme",
+  "dependencies": {
+    "three": "^0.134.0"
+  }
+}
